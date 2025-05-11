@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+watchdog==3.0.0
+pyinstaller==6.3.0
+pillow==11.2.1 
